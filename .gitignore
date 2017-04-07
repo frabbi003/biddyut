@@ -1,0 +1,15 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+composer.lock
+/storage/framework/sessions/
+/public/img/*.jpg
+/public/img/*.png
+/public/img/*.jpeg
+/public/images/*.jpg
+/public/images/*.jpeg
+/public/images/*.png
